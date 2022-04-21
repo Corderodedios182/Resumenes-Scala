@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Intro_Scala_DataCamp.iml" filepath="$PROJECT_DIR$/.idea/modules/Intro_Scala_DataCamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Intro_Scala_DataCamp-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Intro_Scala_DataCamp-build.iml" />
+    </modules>
+  </component>
+</project>
