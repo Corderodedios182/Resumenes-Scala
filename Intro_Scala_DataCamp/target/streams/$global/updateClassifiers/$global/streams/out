@@ -286,21 +286,21 @@
 [debug] == resolving dependencies default#intro_scala_datacamp$sources;0.1->net.java.dev.jna#jna;5.9.0 [scala-tool->master]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.13.8!scala-reflect.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.13.8!scala-compiler.jar(src)
-[debug] 	[NOT REQUIRED] net.java.dev.jna#jna;5.9.0!jna.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.13.8!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.13.8!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.jline#jline;3.21.0!jline.jar(src)
-[debug] :: resolution report :: resolve 15ms :: artifacts dl 1ms
-[debug] 	report for default#intro_scala_datacamp$sources;0.1 compile produced in C:\Users\indra\IdeaProjects\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-compile.xml
-[debug] 	report for default#intro_scala_datacamp$sources;0.1 runtime produced in C:\Users\indra\IdeaProjects\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-runtime.xml
-[debug] 	report for default#intro_scala_datacamp$sources;0.1 test produced in C:\Users\indra\IdeaProjects\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-test.xml
-[debug] 	report for default#intro_scala_datacamp$sources;0.1 provided produced in C:\Users\indra\IdeaProjects\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-provided.xml
-[debug] 	report for default#intro_scala_datacamp$sources;0.1 optional produced in C:\Users\indra\IdeaProjects\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-optional.xml
-[debug] 	report for default#intro_scala_datacamp$sources;0.1 compile-internal produced in C:\Users\indra\IdeaProjects\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-compile-internal.xml
-[debug] 	report for default#intro_scala_datacamp$sources;0.1 runtime-internal produced in C:\Users\indra\IdeaProjects\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-runtime-internal.xml
-[debug] 	report for default#intro_scala_datacamp$sources;0.1 test-internal produced in C:\Users\indra\IdeaProjects\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-test-internal.xml
-[debug] 	report for default#intro_scala_datacamp$sources;0.1 plugin produced in C:\Users\indra\IdeaProjects\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-plugin.xml
-[debug] 	report for default#intro_scala_datacamp$sources;0.1 pom produced in C:\Users\indra\IdeaProjects\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-pom.xml
-[debug] 	report for default#intro_scala_datacamp$sources;0.1 scala-tool produced in C:\Users\indra\IdeaProjects\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-scala-tool.xml
-[debug] 	resolve done (15ms resolve - 1ms download)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.13.8!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] net.java.dev.jna#jna;5.9.0!jna.jar(src)
+[debug] :: resolution report :: resolve 13ms :: artifacts dl 2ms
+[debug] 	report for default#intro_scala_datacamp$sources;0.1 compile produced in C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-compile.xml
+[debug] 	report for default#intro_scala_datacamp$sources;0.1 runtime produced in C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-runtime.xml
+[debug] 	report for default#intro_scala_datacamp$sources;0.1 test produced in C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-test.xml
+[debug] 	report for default#intro_scala_datacamp$sources;0.1 provided produced in C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-provided.xml
+[debug] 	report for default#intro_scala_datacamp$sources;0.1 optional produced in C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-optional.xml
+[debug] 	report for default#intro_scala_datacamp$sources;0.1 compile-internal produced in C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-compile-internal.xml
+[debug] 	report for default#intro_scala_datacamp$sources;0.1 runtime-internal produced in C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-runtime-internal.xml
+[debug] 	report for default#intro_scala_datacamp$sources;0.1 test-internal produced in C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-test-internal.xml
+[debug] 	report for default#intro_scala_datacamp$sources;0.1 plugin produced in C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-plugin.xml
+[debug] 	report for default#intro_scala_datacamp$sources;0.1 pom produced in C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-pom.xml
+[debug] 	report for default#intro_scala_datacamp$sources;0.1 scala-tool produced in C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\target\scala-2.13\resolution-cache\reports\default-intro_scala_datacamp$sources-scala-tool.xml
+[debug] 	resolve done (13ms resolve - 2ms download)

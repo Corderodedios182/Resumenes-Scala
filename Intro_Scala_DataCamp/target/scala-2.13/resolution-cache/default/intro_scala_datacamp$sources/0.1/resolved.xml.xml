@@ -4,7 +4,7 @@
 		module="intro_scala_datacamp$sources"
 		revision="0.1"
 		status="integration"
-		publication="20220421182304"
+		publication="20220421184055"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

@@ -1,0 +1,44 @@
+//Cada valor en Scala es un Objeto
+
+val fourHearts: Int = 4 //Immutable can´t be reassigned
+//fourHearts = 19 //error to reassigned
+
+var aceSpades: Int = 1 //Mutable -> can be reassigned
+
+//Scala value types
+
+//Double : 64-bit IEEE-754 double-precision floating point number
+
+//Int : 32-bit signed integer (-2^31, +2^31)
+
+//Boolean : true or false
+
+//String : a sequence or Char
+// Define immutable variables for player names
+val playerA: String = "Alex"
+val playerB: String = "Chen"
+var playerC: String = "Marta"
+
+// Change playerC from Marta to Umberto
+playerC = "Umberto"
+
+//Char : 16-bit unsigned Unicode integer, 0 to 2^16-1 inclusive, 0,65,535
+
+//Float
+
+//Long
+
+//Short
+
+//Byte
+
+//Unit
+
+//Nota : Centrémonos en Int para comprender cómo se estructuran los tipos en la biblioteca estándar de Scala
+
+scala.Int //El tipo Int nombra la clase Int en el paquete Scala
+scala.Double
+scala.Float
+scala.Short
+
+//El paquete scala se importa automáticamente a cada archivo fuente de Scala
