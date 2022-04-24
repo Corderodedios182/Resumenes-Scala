@@ -1,6 +1,7 @@
 //Cada valor en Scala es un Objeto
 
 val fourHearts: Int = 4 //Immutable can´t be reassigned
+val fourHearts = 4
 //fourHearts = 19 //error to reassigned
 
 var aceSpades: Int = 1 //Mutable -> can be reassigned
@@ -42,3 +43,5 @@ scala.Float
 scala.Short
 
 //El paquete scala se importa automáticamente a cada archivo fuente de Scala
+var carlos: String = "a"
+carlos = "a"
