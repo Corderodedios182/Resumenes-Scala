@@ -1,7 +1,5 @@
 package lecturePart1basic
 
-import sun.font.TrueTypeFont
-
 object Expressions extends App {
 
   // + , - , * , / , & , | , ^ , >> , << , >>>

@@ -35,7 +35,3 @@ object ValuesVariableTypes extends App {
   println(x*3)
 
 }
-
-
-
-

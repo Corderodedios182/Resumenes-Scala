@@ -69,4 +69,3 @@ object Functions extends App {
   println("¿Es Primo? : ", isPrime(2003))
   println("¿Es Primo? : ", isPrime(37 * 17))
 }
-
