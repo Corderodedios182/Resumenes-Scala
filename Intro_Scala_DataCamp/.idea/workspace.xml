@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1464edd1-48bc-4e48-a26b-cf82c9097a0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lecturePart1basic/Recursion.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,14 +69,7 @@
       <recent name="C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\src\test\scala" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Functions">
-    <configuration name="CubeCalculator" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="CubeCalculator" />
-      <module name="Intro_Scala_DataCamp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Recursion">
     <configuration name="Expressions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lecturePart1basic.Expressions" />
       <module name="Intro_Scala_DataCamp" />
@@ -115,6 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lecturePart1basic.Recursion" />
+      <module name="Intro_Scala_DataCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecturePart1basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValuesVariableTypes" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lecturePart1basic.ValuesVariableTypes" />
       <module name="Intro_Scala_DataCamp" />
@@ -130,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.Functions" />
         <item itemvalue="Application.Expressions" />
         <item itemvalue="Application.ValuesVariableTypes" />
         <item itemvalue="Application.Playground" />
-        <item itemvalue="Application.CubeCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -184,17 +191,28 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="828" y="262" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650825650293">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="828" y="262" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1650825650293" />
     <state x="2041" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1392@0.0.3440.1392" timestamp="1650652812152" />
-    <state x="344" y="372" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1650825288231">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state x="616" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1650904199793">
+      <screen x="0" y="0" width="3440" height="1392" />
     </state>
     <state x="344" y="372" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1650825288231" />
-    <state x="616" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1392@0.0.3440.1392" timestamp="1650584423050" />
+    <state x="616" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1392@0.0.3440.1392" timestamp="1650904199793" />
     <state x="499" y="387" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1650584386576">
       <screen x="0" y="0" width="3440" height="1392" />
     </state>
@@ -204,30 +222,30 @@
     </state>
     <state x="2567" y="451" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650672296340" />
     <state x="361" y="334" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1650775361454" />
-    <state width="1725" height="210" key="GridCell.Tab.0.bottom" timestamp="1650857673580">
+    <state width="2222" height="409" key="GridCell.Tab.0.bottom" timestamp="1650909190467">
       <screen x="0" y="0" width="3440" height="1392" />
     </state>
     <state width="1674" height="398" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650669168111" />
     <state width="1877" height="144" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1650843467912" />
-    <state width="1725" height="210" key="GridCell.Tab.0.bottom/0.0.3440.1392@0.0.3440.1392" timestamp="1650857673580" />
-    <state width="1725" height="210" key="GridCell.Tab.0.center" timestamp="1650857673580">
+    <state width="2222" height="409" key="GridCell.Tab.0.bottom/0.0.3440.1392@0.0.3440.1392" timestamp="1650909190467" />
+    <state width="2222" height="409" key="GridCell.Tab.0.center" timestamp="1650909190467">
       <screen x="0" y="0" width="3440" height="1392" />
     </state>
     <state width="1674" height="398" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650669168111" />
     <state width="1877" height="144" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1650843467912" />
-    <state width="1725" height="210" key="GridCell.Tab.0.center/0.0.3440.1392@0.0.3440.1392" timestamp="1650857673580" />
-    <state width="1725" height="210" key="GridCell.Tab.0.left" timestamp="1650857673580">
+    <state width="2222" height="409" key="GridCell.Tab.0.center/0.0.3440.1392@0.0.3440.1392" timestamp="1650909190467" />
+    <state width="2222" height="409" key="GridCell.Tab.0.left" timestamp="1650909190467">
       <screen x="0" y="0" width="3440" height="1392" />
     </state>
     <state width="1674" height="398" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650669168110" />
     <state width="1877" height="144" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1650843467912" />
-    <state width="1725" height="210" key="GridCell.Tab.0.left/0.0.3440.1392@0.0.3440.1392" timestamp="1650857673580" />
-    <state width="1725" height="210" key="GridCell.Tab.0.right" timestamp="1650857673580">
+    <state width="2222" height="409" key="GridCell.Tab.0.left/0.0.3440.1392@0.0.3440.1392" timestamp="1650909190467" />
+    <state width="2222" height="409" key="GridCell.Tab.0.right" timestamp="1650909190467">
       <screen x="0" y="0" width="3440" height="1392" />
     </state>
     <state width="1674" height="398" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650669168111" />
     <state width="1877" height="144" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1650843467912" />
-    <state width="1725" height="210" key="GridCell.Tab.0.right/0.0.3440.1392@0.0.3440.1392" timestamp="1650857673580" />
+    <state width="2222" height="409" key="GridCell.Tab.0.right/0.0.3440.1392@0.0.3440.1392" timestamp="1650909190467" />
     <state x="1687" y="365" key="SettingsEditor" timestamp="1650899137167">
       <screen x="0" y="0" width="3440" height="1392" />
     </state>
