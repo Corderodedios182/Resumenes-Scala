@@ -1,5 +1,0 @@
-def bust(hand : Int): Boolean = {
-  println(hand > 21)
-}
-
-bust(22)

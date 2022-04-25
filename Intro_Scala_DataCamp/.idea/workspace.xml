@@ -2,54 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1464edd1-48bc-4e48-a26b-cf82c9097a0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/CubeCalculato.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lecturePart1basic/Expressions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lecturePart1basic/Functions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lecturePart1basic/ValuesVariableTypes.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/ControlStructure.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/CubeCalculatorTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/ListsAndArrays.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/function.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Intro_Scala_DataCamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Intro_Scala_DataCamp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/Valuestype" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/Valuestype" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp$sources/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp$sources/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp_2.13/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp_2.13/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp_2.13/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp_2.13/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/Valuestype" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/Valuestype" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/input_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturePart1basic/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturePart1basic/Functions.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,41 +188,41 @@
     </state>
     <state x="2567" y="451" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650672296340" />
     <state x="361" y="334" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1650775361454" />
-    <state width="1877" height="144" key="GridCell.Tab.0.bottom" timestamp="1650842216044">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state width="1725" height="210" key="GridCell.Tab.0.bottom" timestamp="1650857302120">
+      <screen x="0" y="0" width="3440" height="1392" />
     </state>
     <state width="1674" height="398" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650669168111" />
-    <state width="1877" height="144" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1650842216044" />
-    <state width="1674" height="398" key="GridCell.Tab.0.bottom/0.0.3440.1392@0.0.3440.1392" timestamp="1650667424026" />
-    <state width="1877" height="144" key="GridCell.Tab.0.center" timestamp="1650842216044">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state width="1877" height="144" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1650843467912" />
+    <state width="1725" height="210" key="GridCell.Tab.0.bottom/0.0.3440.1392@0.0.3440.1392" timestamp="1650857302120" />
+    <state width="1725" height="210" key="GridCell.Tab.0.center" timestamp="1650857302120">
+      <screen x="0" y="0" width="3440" height="1392" />
     </state>
     <state width="1674" height="398" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650669168111" />
-    <state width="1877" height="144" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1650842216044" />
-    <state width="1674" height="398" key="GridCell.Tab.0.center/0.0.3440.1392@0.0.3440.1392" timestamp="1650667424026" />
-    <state width="1877" height="144" key="GridCell.Tab.0.left" timestamp="1650842216044">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state width="1877" height="144" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1650843467912" />
+    <state width="1725" height="210" key="GridCell.Tab.0.center/0.0.3440.1392@0.0.3440.1392" timestamp="1650857302120" />
+    <state width="1725" height="210" key="GridCell.Tab.0.left" timestamp="1650857302120">
+      <screen x="0" y="0" width="3440" height="1392" />
     </state>
     <state width="1674" height="398" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650669168110" />
-    <state width="1877" height="144" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1650842216044" />
-    <state width="1674" height="398" key="GridCell.Tab.0.left/0.0.3440.1392@0.0.3440.1392" timestamp="1650667424026" />
-    <state width="1877" height="144" key="GridCell.Tab.0.right" timestamp="1650842216044">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state width="1877" height="144" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1650843467912" />
+    <state width="1725" height="210" key="GridCell.Tab.0.left/0.0.3440.1392@0.0.3440.1392" timestamp="1650857302120" />
+    <state width="1725" height="210" key="GridCell.Tab.0.right" timestamp="1650857302120">
+      <screen x="0" y="0" width="3440" height="1392" />
     </state>
     <state width="1674" height="398" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650669168111" />
-    <state width="1877" height="144" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1650842216044" />
-    <state width="1674" height="398" key="GridCell.Tab.0.right/0.0.3440.1392@0.0.3440.1392" timestamp="1650667424026" />
+    <state width="1877" height="144" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1650843467912" />
+    <state width="1725" height="210" key="GridCell.Tab.0.right/0.0.3440.1392@0.0.3440.1392" timestamp="1650857302120" />
     <state x="194" y="200" key="SettingsEditor" timestamp="1650779595487">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="2267" y="270" key="SettingsEditor/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650672170022" />
     <state x="194" y="200" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1650779595487" />
-    <state x="314" y="386" key="com.intellij.ide.util.TipDialog" timestamp="1650825668071">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state x="563" y="520" key="com.intellij.ide.util.TipDialog" timestamp="1650854216526">
+      <screen x="0" y="0" width="3440" height="1392" />
     </state>
     <state x="2483" y="520" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650672232329" />
     <state x="314" y="386" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1650825668071" />
-    <state x="563" y="520" key="com.intellij.ide.util.TipDialog/0.0.3440.1392@0.0.3440.1392" timestamp="1650641191714" />
+    <state x="563" y="520" key="com.intellij.ide.util.TipDialog/0.0.3440.1392@0.0.3440.1392" timestamp="1650854216526" />
     <state x="1969" y="424" key="new project wizard" timestamp="1650652500666">
       <screen x="0" y="0" width="3440" height="1392" />
     </state>
