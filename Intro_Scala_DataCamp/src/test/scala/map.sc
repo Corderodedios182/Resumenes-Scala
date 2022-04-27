@@ -46,4 +46,47 @@ Ordering.fromLessThan[Int]({ (m, n) => m > n})
 val mayorMenor = Ordering.fromLessThan[Int](_ > _)
 val sortedSetInverso = immutable.SortedSet.empty(mayorMenor) ++ set
 
+//HassMap, Map
+//Python : Diccionario
+//Ruby : Hashes
+
+//Tenemos :
+//Claces <- A
+//Valores <- B
+//(Clave, Valor)
+
+val mapa = mutable.Map(1 -> "Pepe",
+                      2 -> "Bernardo",
+                      3 -> "Carlos" )
+
+val mapa1 = Map(10 -> "Pepe",
+                20 -> "Bernardo",
+                30 -> "Carlos" )
+
+mapa.keySet
+mapa.values
+mapa.get(2)
+mapa.getOrElse(9, "No existe")
+mapa.contains(2)
+
+mapa + (6 -> "Messi")
+mapa - 3 //Quitar elemento
+
+mapa ++ mapa1
+mapa.put(4, "Yair")
+
+//foreach : Itereción sobre colecciones (for)
+
+val lenguajes = Seq("Java", "Scala", "Kotlin", "Clojure", "Swift", "Rust")
+val opiniones = Seq("conciso","moderno","atrevido","anticuado","aburrido", "convertido")
+
+lenguajes.foreach(l => opiniones.foreach(o => s"$l me parece $o"))
+
+for (l <- lenguajes; o <- opiniones) {
+  println(s"$l me parece un lenguaje $o")
+}
+
+for (l <- lenguajes if l.endsWith("a"); o <- opiniones if o.startsWith("a")){
+  println(s"$l me parece $o")
+}
 
