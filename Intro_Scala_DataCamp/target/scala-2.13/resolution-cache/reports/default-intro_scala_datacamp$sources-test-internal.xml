@@ -7,7 +7,7 @@
 		revision="0.1"
 		conf="test-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20220422134439"/>
+		date="20220503121613"/>
 	<dependencies>
 		<module organisation="org.scalatest" name="scalatest_2.13">
 			<revision name="3.2.11" status="release" pubdate="20220123024504" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="9">
@@ -15,7 +15,7 @@
 				<metadata-artifact status="no" details="" size="5056" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.13/3.2.11/scalatest_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="242" time="537" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest_2.13\srcs\scalatest_2.13-3.2.11-sources.jar">
+					<artifact name="scalatest_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="242" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest_2.13\srcs\scalatest_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.13/3.2.11/scalatest_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -27,7 +27,7 @@
 				<metadata-artifact status="no" details="" size="3210" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-shouldmatchers_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest-shouldmatchers_2.13/3.2.11/scalatest-shouldmatchers_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest-shouldmatchers_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="41893" time="902" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-shouldmatchers_2.13\srcs\scalatest-shouldmatchers_2.13-3.2.11-sources.jar">
+					<artifact name="scalatest-shouldmatchers_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="41893" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-shouldmatchers_2.13\srcs\scalatest-shouldmatchers_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest-shouldmatchers_2.13/3.2.11/scalatest-shouldmatchers_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -39,7 +39,7 @@
 				<metadata-artifact status="no" details="" size="3183" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-diagrams_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest-diagrams_2.13/3.2.11/scalatest-diagrams_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest-diagrams_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="12242" time="992" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-diagrams_2.13\srcs\scalatest-diagrams_2.13-3.2.11-sources.jar">
+					<artifact name="scalatest-diagrams_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="12242" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-diagrams_2.13\srcs\scalatest-diagrams_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest-diagrams_2.13/3.2.11/scalatest-diagrams_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -51,7 +51,7 @@
 				<metadata-artifact status="no" details="" size="3183" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-wordspec_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest-wordspec_2.13/3.2.11/scalatest-wordspec_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest-wordspec_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="87182" time="2591" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-wordspec_2.13\srcs\scalatest-wordspec_2.13-3.2.11-sources.jar">
+					<artifact name="scalatest-wordspec_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="87182" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-wordspec_2.13\srcs\scalatest-wordspec_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest-wordspec_2.13/3.2.11/scalatest-wordspec_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -63,7 +63,7 @@
 				<metadata-artifact status="no" details="" size="3180" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-refspec_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest-refspec_2.13/3.2.11/scalatest-refspec_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest-refspec_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="21052" time="515" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-refspec_2.13\srcs\scalatest-refspec_2.13-3.2.11-sources.jar">
+					<artifact name="scalatest-refspec_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="21052" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-refspec_2.13\srcs\scalatest-refspec_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest-refspec_2.13/3.2.11/scalatest-refspec_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -75,7 +75,7 @@
 				<metadata-artifact status="no" details="" size="3183" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-propspec_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest-propspec_2.13/3.2.11/scalatest-propspec_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest-propspec_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="33470" time="437" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-propspec_2.13\srcs\scalatest-propspec_2.13-3.2.11-sources.jar">
+					<artifact name="scalatest-propspec_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="33470" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-propspec_2.13\srcs\scalatest-propspec_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest-propspec_2.13/3.2.11/scalatest-propspec_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -87,7 +87,7 @@
 				<metadata-artifact status="no" details="" size="3180" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-funspec_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest-funspec_2.13/3.2.11/scalatest-funspec_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest-funspec_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="83706" time="1795" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-funspec_2.13\srcs\scalatest-funspec_2.13-3.2.11-sources.jar">
+					<artifact name="scalatest-funspec_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="83706" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-funspec_2.13\srcs\scalatest-funspec_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest-funspec_2.13/3.2.11/scalatest-funspec_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -99,7 +99,7 @@
 				<metadata-artifact status="no" details="" size="3183" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-funsuite_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest-funsuite_2.13/3.2.11/scalatest-funsuite_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest-funsuite_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="65687" time="517" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-funsuite_2.13\srcs\scalatest-funsuite_2.13-3.2.11-sources.jar">
+					<artifact name="scalatest-funsuite_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="65687" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-funsuite_2.13\srcs\scalatest-funsuite_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest-funsuite_2.13/3.2.11/scalatest-funsuite_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -111,7 +111,7 @@
 				<metadata-artifact status="no" details="" size="3204" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-mustmatchers_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest-mustmatchers_2.13/3.2.11/scalatest-mustmatchers_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest-mustmatchers_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="256" time="667" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-mustmatchers_2.13\srcs\scalatest-mustmatchers_2.13-3.2.11-sources.jar">
+					<artifact name="scalatest-mustmatchers_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="256" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-mustmatchers_2.13\srcs\scalatest-mustmatchers_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest-mustmatchers_2.13/3.2.11/scalatest-mustmatchers_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -123,7 +123,7 @@
 				<metadata-artifact status="no" details="" size="3198" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-matchers-core_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest-matchers-core_2.13/3.2.11/scalatest-matchers-core_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest-matchers-core_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="143763" time="1312" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-matchers-core_2.13\srcs\scalatest-matchers-core_2.13-3.2.11-sources.jar">
+					<artifact name="scalatest-matchers-core_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="143763" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-matchers-core_2.13\srcs\scalatest-matchers-core_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest-matchers-core_2.13/3.2.11/scalatest-matchers-core_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -147,7 +147,7 @@
 				<metadata-artifact status="no" details="" size="3183" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-freespec_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest-freespec_2.13/3.2.11/scalatest-freespec_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest-freespec_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="86311" time="2617" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-freespec_2.13\srcs\scalatest-freespec_2.13-3.2.11-sources.jar">
+					<artifact name="scalatest-freespec_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="86311" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-freespec_2.13\srcs\scalatest-freespec_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest-freespec_2.13/3.2.11/scalatest-freespec_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -159,7 +159,7 @@
 				<metadata-artifact status="no" details="" size="3192" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-featurespec_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest-featurespec_2.13/3.2.11/scalatest-featurespec_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest-featurespec_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="74140" time="3017" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-featurespec_2.13\srcs\scalatest-featurespec_2.13-3.2.11-sources.jar">
+					<artifact name="scalatest-featurespec_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="74140" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-featurespec_2.13\srcs\scalatest-featurespec_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest-featurespec_2.13/3.2.11/scalatest-featurespec_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -171,7 +171,7 @@
 				<metadata-artifact status="no" details="" size="3183" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-flatspec_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest-flatspec_2.13/3.2.11/scalatest-flatspec_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest-flatspec_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="87127" time="643" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-flatspec_2.13\srcs\scalatest-flatspec_2.13-3.2.11-sources.jar">
+					<artifact name="scalatest-flatspec_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="87127" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-flatspec_2.13\srcs\scalatest-flatspec_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest-flatspec_2.13/3.2.11/scalatest-flatspec_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -183,7 +183,7 @@
 				<metadata-artifact status="no" details="" size="4094" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-core_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest-core_2.13/3.2.11/scalatest-core_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest-core_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="860629" time="5625" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-core_2.13\srcs\scalatest-core_2.13-3.2.11-sources.jar">
+					<artifact name="scalatest-core_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="860629" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-core_2.13\srcs\scalatest-core_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest-core_2.13/3.2.11/scalatest-core_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -195,7 +195,7 @@
 				<metadata-artifact status="no" details="" size="3259" time="0" location="C:\Users\indra\.ivy2\cache\org.scala-lang.modules\scala-xml_2.13\ivy-2.0.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/2.0.1/scala-xml_2.13-2.0.1.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="2.0.1" rev-constraint-default="2.0.1" rev-constraint-dynamic="2.0.1" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scala-xml_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="97423" time="3815" location="C:\Users\indra\.ivy2\cache\org.scala-lang.modules\scala-xml_2.13\srcs\scala-xml_2.13-2.0.1-sources.jar">
+					<artifact name="scala-xml_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="97423" time="0" location="C:\Users\indra\.ivy2\cache\org.scala-lang.modules\scala-xml_2.13\srcs\scala-xml_2.13-2.0.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/2.0.1/scala-xml_2.13-2.0.1-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -207,7 +207,7 @@
 				<metadata-artifact status="no" details="" size="3003" time="0" location="C:\Users\indra\.ivy2\cache\org.scalactic\scalactic_2.13\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.13/3.2.11/scalactic_2.13-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalactic_2.13" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="225538" time="1819" location="C:\Users\indra\.ivy2\cache\org.scalactic\scalactic_2.13\srcs\scalactic_2.13-3.2.11-sources.jar">
+					<artifact name="scalactic_2.13" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="225538" time="0" location="C:\Users\indra\.ivy2\cache\org.scalactic\scalactic_2.13\srcs\scalactic_2.13-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.13/3.2.11/scalactic_2.13-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -219,7 +219,7 @@
 				<metadata-artifact status="no" details="" size="2542" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-compatible\ivy-3.2.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest-compatible/3.2.11/scalatest-compatible-3.2.11.pom"/>
 				<caller organisation="default" name="intro_scala_datacamp$sources" conf="test, compile, provided, test-internal, runtime, optional" rev="3.2.11" rev-constraint-default="3.2.11" rev-constraint-dynamic="3.2.11" callerrev="0.1"/>
 				<artifacts>
-					<artifact name="scalatest-compatible" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1372" time="284" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-compatible\srcs\scalatest-compatible-3.2.11-sources.jar">
+					<artifact name="scalatest-compatible" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1372" time="0" location="C:\Users\indra\.ivy2\cache\org.scalatest\scalatest-compatible\srcs\scalatest-compatible-3.2.11-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest-compatible/3.2.11/scalatest-compatible-3.2.11-sources.jar"/>
 					</artifact>
 				</artifacts>

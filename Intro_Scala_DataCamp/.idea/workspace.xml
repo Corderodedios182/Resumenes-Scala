@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1464edd1-48bc-4e48-a26b-cf82c9097a0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/OOBasics.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_8_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_8_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Intro_Scala_DataCamp-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Intro_Scala_DataCamp-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Intro_Scala_DataCamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Intro_Scala_DataCamp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturePart1basic/Expressions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturePart1basic/Expressions.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturePart1basic/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturePart1basic/Functions.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturePart1basic/ValuesVariableTypes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturePart1basic/ValuesVariableTypes.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart1basic/Expressions$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart1basic/Expressions$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart1basic/Expressions$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart1basic/Expressions$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/OOBasics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/OOBasics.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/META-INF/Intro_Scala_DataCamp.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart2OOP/OOBasics$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart2OOP/OOBasics$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart2OOP/OOBasics$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart2OOP/OOBasics$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart2OOP/OOBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart2OOP/OOBasics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart2OOP/Person$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart2OOP/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,35 +70,34 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Scala Worksheet" />
         <option value="Scala Object" />
+        <option value="Scala Worksheet" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2881P6au2vz3CosdVRbtjfCVj9T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/scala" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/indra/Documents/Github/Resumenes-Scala/Intro_Scala_DataCamp"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp" />
       <recent name="C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\src\test\scala" />
     </key>
   </component>
@@ -151,39 +177,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SbtLocalSettings">
-    <option name="availableProjects">
-      <map>
-        <entry>
-          <key>
-            <ExternalProjectPojo>
-              <option name="name" value="Intro_Scala_DataCamp" />
-              <option name="path" value="$PROJECT_DIR$" />
-            </ExternalProjectPojo>
-          </key>
-          <value>
-            <list>
-              <ExternalProjectPojo>
-                <option name="name" value="intro_scala_datacamp [file:/C:/Users/indra/Documents/Github/Resumenes-Scala/Intro_Scala_DataCamp/]" />
-                <option name="path" value="$PROJECT_DIR$" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value="Intro_Scala_DataCamp-build" />
-                <option name="path" value="$PROJECT_DIR$/project" />
-              </ExternalProjectPojo>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$" value="3301236360418" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="1699067867" />
-        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
-      </map>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -207,74 +201,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="828" y="262" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650825650293">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="828" y="262" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1650825650293" />
-    <state x="2041" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1392@0.0.3440.1392" timestamp="1650652812152" />
-    <state x="616" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1650904199793">
-      <screen x="0" y="0" width="3440" height="1392" />
-    </state>
-    <state x="344" y="372" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1650825288231" />
-    <state x="616" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1392@0.0.3440.1392" timestamp="1650904199793" />
-    <state x="499" y="387" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1650584386576">
-      <screen x="0" y="0" width="3440" height="1392" />
-    </state>
-    <state x="499" y="387" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.3440.1392@0.0.3440.1392" timestamp="1650584386576" />
-    <state x="2144" y="625" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1650919157559">
-      <screen x="0" y="0" width="3440" height="1392" />
-    </state>
-    <state x="2144" y="625" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.3440.1392@0.0.3440.1392" timestamp="1650919157559" />
-    <state x="361" y="334" key="FileChooserDialogImpl" timestamp="1650775361454">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="2567" y="451" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650672296340" />
-    <state x="361" y="334" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1650775361454" />
-    <state width="1672" height="403" key="GridCell.Tab.0.bottom" timestamp="1650923204967">
-      <screen x="0" y="0" width="3440" height="1392" />
-    </state>
-    <state width="1674" height="398" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650669168111" />
-    <state width="1877" height="144" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1650843467912" />
-    <state width="1672" height="403" key="GridCell.Tab.0.bottom/0.0.3440.1392@0.0.3440.1392" timestamp="1650923204967" />
-    <state width="1672" height="403" key="GridCell.Tab.0.center" timestamp="1650923204967">
-      <screen x="0" y="0" width="3440" height="1392" />
-    </state>
-    <state width="1674" height="398" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650669168111" />
-    <state width="1877" height="144" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1650843467912" />
-    <state width="1672" height="403" key="GridCell.Tab.0.center/0.0.3440.1392@0.0.3440.1392" timestamp="1650923204967" />
-    <state width="1672" height="403" key="GridCell.Tab.0.left" timestamp="1650923204967">
-      <screen x="0" y="0" width="3440" height="1392" />
-    </state>
-    <state width="1674" height="398" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650669168110" />
-    <state width="1877" height="144" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1650843467912" />
-    <state width="1672" height="403" key="GridCell.Tab.0.left/0.0.3440.1392@0.0.3440.1392" timestamp="1650923204967" />
-    <state width="1672" height="403" key="GridCell.Tab.0.right" timestamp="1650923204967">
-      <screen x="0" y="0" width="3440" height="1392" />
-    </state>
-    <state width="1674" height="398" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650669168111" />
-    <state width="1877" height="144" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1650843467912" />
-    <state width="1672" height="403" key="GridCell.Tab.0.right/0.0.3440.1392@0.0.3440.1392" timestamp="1650923204967" />
-    <state x="1687" y="365" key="SettingsEditor" timestamp="1650899137167">
-      <screen x="0" y="0" width="3440" height="1392" />
-    </state>
-    <state x="2267" y="270" key="SettingsEditor/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650672170022" />
-    <state x="194" y="200" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1650779595487" />
-    <state x="1687" y="365" key="SettingsEditor/0.0.3440.1392@0.0.3440.1392" timestamp="1650899137167" />
-    <state x="563" y="520" key="com.intellij.ide.util.TipDialog" timestamp="1650899149276">
-      <screen x="0" y="0" width="3440" height="1392" />
-    </state>
-    <state x="2483" y="520" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.3440.1392@1920.0.3440.1392" timestamp="1650672232329" />
-    <state x="314" y="386" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1650825668071" />
-    <state x="563" y="520" key="com.intellij.ide.util.TipDialog/0.0.3440.1392@0.0.3440.1392" timestamp="1650899149276" />
-    <state x="1969" y="424" key="new project wizard" timestamp="1650652500666">
-      <screen x="0" y="0" width="3440" height="1392" />
-    </state>
-    <state x="1969" y="424" key="new project wizard/0.0.3440.1392@0.0.3440.1392" timestamp="1650652500666" />
-    <state x="380" y="403" width="709" height="309" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1650779575800">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="380" y="403" width="709" height="309" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1650779575800" />
   </component>
 </project>
