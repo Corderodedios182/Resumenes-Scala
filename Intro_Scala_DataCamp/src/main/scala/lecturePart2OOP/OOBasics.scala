@@ -26,6 +26,10 @@ object OOBasics extends App{
   println(novela.authoAge)
   println(novela.isWritternBy(author))
 
+  val counter = new Counter
+  counter.inc.print
+  counter.inc.inc.inc.print
+  counter.inc(10).print
 
 }
 
@@ -79,4 +83,27 @@ class Novela(nombre: String, year: Int, author: Escritor){
   def authoAge = year - author.yearBorn
   def isWritternBy(author: Escritor) = author == this.author
   def copy(newYear: Int): Novela = new Novela(nombre, year, author)
+}
+
+class Counter(val count: Int = 0) {
+  def inc = {
+    println("incrementar")
+    new Counter(count + 1)
+  }
+
+  def dec = {
+    println("decrementing")
+    new Counter(count - 1)
+  }
+
+  def inc(n: Int): Counter = {
+    if (n<=0) this
+    else inc.inc(n-1)
+  }
+
+  def dec(n:Int): Counter =
+    if (n <= 0) this
+    else (dec.dec(n-1))
+
+  def print = println(count)
 }
