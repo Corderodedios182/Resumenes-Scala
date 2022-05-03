@@ -18,6 +18,15 @@ object OOBasics extends App{
 
   personTwo.todoJunto("Bernardo")
 
+  println("--Ejercicios--")
+
+  val author = new Escritor("Charles", "Dickens", 1812)
+  val novela = new Novela("Great Expectations", 1861, author)
+
+  println(novela.authoAge)
+  println(novela.isWritternBy(author))
+
+
 }
 
 class Personas(name: String, var age: Int = 0) { //Constructor : Parametros con los que se debe construir cada instancia de persona.
@@ -50,3 +59,24 @@ class Personas(name: String, var age: Int = 0) { //Constructor : Parametros con 
 
 }
 
+/*Ejercicio : Novela y Escritores
+
+  Escritor : Nombre, Apellido, Edad, Año de Nacimiento.
+  Metodos fullname
+
+  Novela : Nombre, año de lanzamiento y Escritor
+  authorAge : Edad del Autor cuando lanzo el libro
+  isWrittenBy(author) :
+  copy : Nuevo año de Lanzamiento
+
+ */
+
+class Escritor(nombre: String, apellido:String, val yearBorn: Int){
+  def fullName: String = nombre + "_" + apellido
+}
+
+class Novela(nombre: String, year: Int, author: Escritor){
+  def authoAge = year - author.yearBorn
+  def isWritternBy(author: Escritor) = author == this.author
+  def copy(newYear: Int): Novela = new Novela(nombre, year, author)
+}
