@@ -3,6 +3,7 @@ package lecturePart2OOP
 //Scala no tienen valores o métodos estáticos
 
 //Objetos Scala
+//Un unico Object que ya está instanciado
 //Para crear una funcionalidad de nivel de clase, si escalamos es mejor usar Objetos Scala
 //están en su propia clase
 //son la única instancia
