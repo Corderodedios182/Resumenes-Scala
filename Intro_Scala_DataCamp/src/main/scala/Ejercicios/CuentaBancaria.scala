@@ -13,11 +13,12 @@ case class CuentaBancaria() {
 
   //Metodos
   def mostrarDatos(): String = {
-    return "Datos de la Cuenta cbu : " + cbu + " alias : " + alias + " saldo : " +saldo
+    return "Datos de la Cuenta cbu : " + cbu + " alias : " + alias + " saldo : " + saldo
   }
 
-  def setAlias(nuevoAlias: String): Unit = {
-    if (nuevoAlias != null) alias = nuevoAlias
+  //this : con this.alias usamos el atributo general de la Clase y sin el this usamos el alias del método.
+  def setAlias(alias: String): Unit = {
+    if (alias != null) this.alias = alias
     else "null"
   }
 
