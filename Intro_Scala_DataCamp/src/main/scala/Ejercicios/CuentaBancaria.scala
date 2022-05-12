@@ -16,16 +16,16 @@ case class CuentaBancaria() {
     return "Datos de la Cuenta cbu : " + cbu + " alias : " + alias + " saldo : " +saldo
   }
 
-  def establecerAlias(nuevoAlias: String): Unit = {
+  def setAlias(nuevoAlias: String): Unit = {
     if (nuevoAlias != null) alias = nuevoAlias
     else "null"
   }
 
-  def obtenerSaldo(): String = {
+  def getSaldo(): String = {
     return "Tu Saldo es : " +  saldo
   }
 
-  def obtenerAlias(): String = {
+  def getAlias(): String = {
     return "Tu Alias es : " +  alias
   }
 

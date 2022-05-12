@@ -7,14 +7,14 @@ object Principal extends App {
   val cuentaBancariaTwo = new CuentaBancaria()
 
   //Atributos privados deben ser actualizado o llamados por un método.
-  cuentabancaria.establecerAlias("CRFL")
-  cuentabancaria.obtenerAlias()
+  cuentabancaria.setAlias("CRFL")
+  cuentabancaria.getAlias()
   //Atributo Publico, se puede consultar y modificar fuera de la Clase
   cuentabancaria.saldo = 10000
 
   //Comportamiento de un Objeto : Operaciones que puede realizar a través de sus métodos.
   println(cuentabancaria.mostrarDatos())
-  println(cuentabancaria.obtenerSaldo())
+  println(cuentabancaria.getSaldo())
   println(cuentabancaria.depositar(1000))
   println(cuentabancaria.retiroDinero(6000))
 
