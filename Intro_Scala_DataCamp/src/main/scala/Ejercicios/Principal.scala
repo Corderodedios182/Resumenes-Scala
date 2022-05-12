@@ -6,8 +6,10 @@ object Principal extends App {
   val cuentabancaria = new CuentaBancaria()
   val cuentaBancariaTwo = new CuentaBancaria()
 
-  cuentabancaria.cbu = "1046"
-  cuentabancaria.alias = "CRFL"
+  //Atributos privados deben ser actualizado o llamados por un método.
+  cuentabancaria.establecerAlias("CRFL")
+  cuentabancaria.obtenerAlias()
+  //Atributo Publico, se puede consultar y modificar fuera de la Clase
   cuentabancaria.saldo = 10000
 
   //Comportamiento de un Objeto : Operaciones que puede realizar a través de sus métodos.
@@ -17,9 +19,7 @@ object Principal extends App {
   println(cuentabancaria.retiroDinero(6000))
 
   //Estado de Un Objeto : Conjunto de valores de sus atributos en determinado instante
-  cuentabancaria.cbu = "1820"
-  cuentabancaria.alias = "BRFL"
-  cuentabancaria.saldo = 30000
+
   println(cuentabancaria.mostrarDatos())
 
   //Identidad de un Objeto : Propidad que permite distinguirlo de otros.
