@@ -3,17 +3,17 @@ package Ejercicios
 object Principal extends App {
 
   //Objeto = Instancia de una clase
-  val cuentabancaria = new CuentaBancaria()
-  val cuentaBancariaTwo = new CuentaBancaria()
+  val cuentabancaria = new CuentaBancaria("CRFL", "Carlos", moneda = "$", tipo = "moneda")
+  val cuentaBancariaTwo = new CuentaBancaria("BRFL", "Bernardo", moneda = "$", tipo = "moneda")
 
   //Atributos privados deben ser actualizado o llamados por un método.
-  println(cuentabancaria.setAlias("CRFL"))
-  println(cuentabancaria.getAlias())
+  println(s"Soy atributo privado " + cuentabancaria.getAlias())
 
-  println(cuentabancaria.setAlias("BRFL"))
-  println(cuentabancaria.getAlias())
+  println(s"Me actualizaron " + cuentabancaria.setAlias("TRFL"))
+  println(s"Actualización de Alias " + cuentabancaria.getAlias())
 
   //Atributo Publico, se puede consultar y modificar fuera de la Clase
+  println(s"Soy atributo publico " + cuentabancaria.cbu)
   cuentabancaria.saldo = 10000
 
   //Comportamiento de un Objeto : Operaciones que puede realizar a través de sus métodos.
