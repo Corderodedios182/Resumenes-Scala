@@ -5,6 +5,7 @@ object Principal extends App {
   //Objeto = Instancia de una clase
   val cuentabancaria = new CuentaBancaria("CRFL", "Carlos", moneda = "$", tipo = "moneda")
   val cuentaBancariaTwo = new CuentaBancaria("BRFL", "Bernardo", moneda = "$", tipo = "moneda")
+  val cuentaBancariaTree = new CuentaBancaria()
 
   //Atributos privados deben ser actualizado o llamados por un método.
   println(s"Soy atributo privado " + cuentabancaria.getAlias())
@@ -40,7 +41,6 @@ object Principal extends App {
 
   val domicilio = new Domicilio()
 
+  println(cuentaBancariaTree.mostrarDatos())
+
 }
-
-
-

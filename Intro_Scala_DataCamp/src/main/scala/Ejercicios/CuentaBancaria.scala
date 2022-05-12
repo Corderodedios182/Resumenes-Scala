@@ -2,10 +2,10 @@ package Ejercicios
 
 //Clase : Molde o Plantilla que permite la creación de objetos de determinado tipo.
 
-case class CuentaBancaria(        var cbu   : String, //Constructor de la Clase
-                          private var alias : String,
-                                  var moneda: String,
-                                  var tipo  : String) {
+case class CuentaBancaria(        var cbu   : String = "Null", //Constructor de la Clase sobrecargados.
+                          private var alias : String = "Null",
+                                  var moneda: String = "Null",
+                                  var tipo  : String = "Null") {
 
   //atributo publico : Se puede usar o modificar fuera de la Clase
   var saldo: Double = 0
