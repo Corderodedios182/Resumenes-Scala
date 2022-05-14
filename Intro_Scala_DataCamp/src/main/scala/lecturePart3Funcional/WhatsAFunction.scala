@@ -1,13 +1,15 @@
 package lecturePart3Funcional
 
-object WhatsAFunction {
+object WhatsAFunction extends App {
 
-  //Funciones como elementos de primera clase : Trabajar con funciones como trabajamos con valores simples.
-
-  def Hola(palabra: String):String = {
-    println("Hola")
+  val doubler = new MyFunction[Int, Int] {
+    override def apply(element:Int): Int = element * 2
   }
 
+  println(doubler(2))
 
+}
 
+trait MyFunction[A,B] {
+  def apply(elemnt: A):B
 }
