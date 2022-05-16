@@ -53,6 +53,8 @@ case class CuentaBancaria(        var cbu   : String = "Null", //Constructor de 
     }
   }
 
+  override def toString(): String = {
+    "Override deshabilita los métods por ejemplo toString original."
+  }
+
 }
-
-

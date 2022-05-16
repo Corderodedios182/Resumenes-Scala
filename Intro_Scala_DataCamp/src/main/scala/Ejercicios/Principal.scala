@@ -43,4 +43,6 @@ object Principal extends App {
 
   println(cuentaBancariaTree.mostrarDatos())
 
+  println(cuentabancaria.toString())
+
 }
