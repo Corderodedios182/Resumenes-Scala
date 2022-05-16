@@ -45,4 +45,19 @@ object Principal extends App {
 
   println(cuentabancaria.toString())
 
+  //Atributos de tipo Objeto
+  val motorOne = new Motor(1,4,"diesel")
+
+  val gol = new Auto("dos", "VW", 175000, "negro", motorOne)
+
+  println(gol.toString)
+
+  motorOne.setcilindrada(3)
+
+  println(gol.toString)
+  println(gol.elMotor.potencia)
+  println(gol.elMotor.setcilindrada(1))
+
+  println(motorOne.toString)
+
 }
