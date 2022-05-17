@@ -1,6 +1,6 @@
 package lecturePart2OOP
 
-object InheritanceAndTraits extends App {
+object Inheritance extends App {
 
   // Herencia clase simple
   class Animal {

@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1464edd1-48bc-4e48-a26b-cf82c9097a0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/AbstractDataTypes.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturePart1basic/StringsOps.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturePart1basic/StringsOps.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart1basic/CallByNameAndCallByValue$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart1basic/CallByNameAndCallByValue$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart1basic/CallByNameAndCallByValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart1basic/CallByNameAndCallByValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/InheritanceAndTraits.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/Inheritance.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
