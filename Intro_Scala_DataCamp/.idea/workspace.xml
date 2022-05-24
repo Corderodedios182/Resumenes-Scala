@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1464edd1-48bc-4e48-a26b-cf82c9097a0d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/AbstractDataTypes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/AbstractDataTypes.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Ejercicios/MyList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Ejercicios/MyList.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/Inheritance.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/Inheritance.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,7 @@
       <recent name="C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\src\test\scala" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Inheritance">
+  <component name="RunManager" selected="Application.ListTest">
     <configuration name="AbstractDataTypes" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lecturePart2OOP.AbstractDataTypes" />
       <module name="Intro_Scala_DataCamp" />
@@ -143,9 +143,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.Inheritance" />
         <item itemvalue="Application.AbstractDataTypes" />
-        <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.InheritanceAndTraits" />
         <item itemvalue="Application.Principal" />
       </list>

@@ -2,6 +2,19 @@ package Ejercicios
 
 //Lista enlazada individualmente, contiene números enteros.
 
+//Scala ofrece herencia basada en clases
+
+//modificadores de acceso: privado, protegido, predeterminado (none = public)
+//necesita pasar los argumentos del constructor a la clase principal
+
+//Las clases derivadas pueden anular miembros o métodos
+//Reutilizar parent fields / methods with super
+//Prevenir la herencia con final and sealed
+//Uso de abstract classes
+//Uso de traits
+
+Inheriting from a class and multiple traits
+
 abstract class MyList {
 
  /*

@@ -3,6 +3,8 @@ package lecturePart2OOP
 object Inheritance extends App {
 
   // Herencia clase simple
+  //final class Animal
+  //sealed class Animal
   class Animal {
     val creatureType = "wild"
     def eat = println("crunch") //Método público para heredar.
@@ -49,5 +51,13 @@ object Inheritance extends App {
   unknowAnimal.eat
 
   // Overriding vs OberLoading
+
+  // super
+
+  // previniendo anulaciones
+  //1. usar final en miembro (final)
+  //2. usar final en toda la clase
+  //3. selle (sealed) la clase = extienda las clases en ESTE ARCHIVO, impida la extensión en otros archivos.
+
 
 }
