@@ -13,7 +13,7 @@ package Ejercicios
 //Uso de abstract classes
 //Uso de traits
 
-Inheriting from a class and multiple traits
+//Inheriting from a class and multiple traits
 
 abstract class MyList {
 
