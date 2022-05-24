@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1464edd1-48bc-4e48-a26b-cf82c9097a0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Ejercicios/MyList.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/AbstractDataTypes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/AbstractDataTypes.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/Inheritance.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/Inheritance.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,7 @@
       <list>
         <option value="Scala Object" />
         <option value="Scala Worksheet" />
+        <option value="Package Object" />
       </list>
     </option>
   </component>
@@ -61,25 +63,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/indra/Documents/Github/Resumenes-Scala/Intro_Scala_DataCamp&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/indra/Documents/Github/Resumenes-Scala/Intro_Scala_DataCamp",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp" />
       <recent name="C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\src\test\scala" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListTest">
-    <configuration name="DogOne" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lecturePart3Funcional.DogOne" />
+  <component name="RunManager" selected="Application.Inheritance">
+    <configuration name="AbstractDataTypes" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lecturePart2OOP.AbstractDataTypes" />
       <module name="Intro_Scala_DataCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecturePart3Funcional.*" />
+          <option name="PATTERN" value="lecturePart2OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lecturePart2OOP.Inheritance" />
+      <module name="Intro_Scala_DataCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecturePart2OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,26 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecturePart3Funcional.Principal" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lecturePart3Funcional.Principal" />
-      <module name="Intro_Scala_DataCamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecturePart3Funcional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inheritance" />
+        <item itemvalue="Application.AbstractDataTypes" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.InheritanceAndTraits" />
         <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.DogOne" />
-        <item itemvalue="Application.lecturePart3Funcional.Principal" />
       </list>
     </recent_temporary>
   </component>
