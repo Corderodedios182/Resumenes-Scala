@@ -103,3 +103,32 @@ object Listas extends App {
   println((listaOne,listaOne).zipped.map(_ % _))
 
 }
+
+object Vectors extends App {
+
+  //La clase Vector es una secuencia indexada e inmutable.
+  //La parte "indexada" de la descripción significa que puede acceder a los Vectorelementos muy rápidamente por su valor de índice, como acceder a listOfPeople(999999).
+
+  val vectorOne = Vector(1,3,6,9)
+
+  //Debido a que Vectores inmutable, no puede agregarle nuevos elementos.
+  //En su lugar, crea una nueva secuencia agregando o anteponiendo elementos a un archivo Vector. Por ejemplo, dado esto Vector
+  println("Agregar o quitar elementos")
+  val vectorTwo = vectorOne :+ 10
+  val vectorTree = vectorOne ++ vectorTwo
+  val vectorFor = vectorOne ++: vectorTwo
+  println("VectorTwo : ", vectorTwo)
+  println("VectorTree : ",vectorTree)
+  println("VectorFor : ",vectorFor)
+
+  println("Acceso elementos")
+  println("Elemento 0 : ", vectorOne(0))
+
+  println("Metodos Vectores")
+  println(vectorOne.head)
+  println(vectorFor.length)
+
+  println("Iteración")
+  for (i <- vectorFor) println(i + 10)
+
+}
