@@ -1,5 +1,0 @@
-package ApacheSpark
-
-object DataFrameBasics {
-
-}
