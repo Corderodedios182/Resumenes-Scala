@@ -1,51 +1,55 @@
 package ApacheSpark
 
-import org.apache.spark.sql.functions.{col, exp, expr}
+import org.apache.spark.sql.catalyst.dsl.expressions.StringToAttributeConversionHelper
+import org.apache.spark.sql.functions.{col, countDistinct, exp, expr, split, udf}
+import org.sparkproject.dmg.pmml.False
 
 object DataFramesTransform extends App {
 
   val carsDf = DataFrameRead.carsDf
+
+  //Analisis Exploratorio
   println(s"Número de registros : ${carsDf.count()}")
+
   carsDf.printSchema()
   carsDf.show()
 
-  val carsOrigin = carsDf.groupBy("Origin")
-                         .count()
-                         .orderBy(col("count").asc)
+  //Autos Origen por Pais
+  carsDf.groupBy("Origin")
+        .count()
+        .orderBy(col("count").asc)
+        .show()
 
-  val carsName = carsDf.groupBy("Origin","Name" )
+  //Años de autos
+  carsDf.selectExpr("substring(Year, 1,4) as yearOne")
+    .groupBy("yearOne")
     .count()
-    .orderBy(col("Origin").asc)
+    .orderBy(col("yearOne").asc)
+    .show()
 
-  println(s"Grupos Origin : ${carsOrigin.show()}")
-  println(s"Grupos Name : ${carsName.show()}")
+  //Nombres de Autos unicos
+  carsDf.select(countDistinct(col("Name"))).show()
 
-  // Expresiones
-  val weight_in_kls = carsDf.col("Weight_in_lbs") / 2.2
+  //Estadisticas de los Autos.
+  carsDf.describe().show()
 
-  val carsDfWeightDf = carsDf.select(
-    col("Name"),
-    col("Weight_in_lbs").cast("double"),
-    weight_in_kls.as("Weight_in_kls1"),
-    expr("Weight_in_lbs/2.2").as("Weight_in_kls2")
-  )
-  carsDfWeightDf.show()
+  //Campos calculados.
+  val kilometers_per_liter = carsDf.col("Miles_per_Gallon") * 0.42517006802721
 
-  // selectExpr
-  val carsDfYear = carsDf.selectExpr("Origin", "substring(Year, 1,4) as year")
-    .groupBy("Origin","year")
-    .count()
-    .orderBy(col("count").asc)
+  val carsDfnew = carsDf.select(carsDf.col("*"),
+                                kilometers_per_liter.as("kilometers_per_liter"),
+                                expr("Weight_in_lbs/2.2").as("Weight_in_kls"))
+                        .selectExpr("*", "substring(Year, 1,4) as yearOne")
+                        .withColumn("Marca", split(col("Name"), " ").getItem(0))
 
-  carsDfYear.show()
+  carsDfnew.show()
 
-  // Procesamiento
-  val carDfProcess = carsDf
-    .withColumn("Weight_in_kls", col("Weight_in_lbs")/2.2)
-    .selectExpr("*", "substring(Year, 1,4) as yearOne")
-    .filter(col("yearOne") === 1970)
+  //Marcas
+  carsDfnew.groupBy("yearOne","marca")
+           .count()
+           .orderBy(col("marca").asc)
+           .show(truncate = false)
 
-  carDfProcess.printSchema()
-  carDfProcess.show()
+  carsDfnew.filter(col("Marca") === "ford").show(100)
 
 }
