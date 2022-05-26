@@ -3,7 +3,7 @@ package ApacheSpark
 import org.apache.spark.sql._
 import org.apache.log4j._
 
-object DataFramesBasics extends App {
+object SparkSQLDataset extends App {
 
   case class Person(id:Int, name:String, age:Int, friends:Int)
 

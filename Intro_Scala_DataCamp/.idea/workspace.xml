@@ -5,9 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1464edd1-48bc-4e48-a26b-cf82c9097a0d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Intro_Scala_DataCamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Intro_Scala_DataCamp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Ejercicios/MyList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Ejercicios/MyList.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/Inheritance.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lecturePart2OOP/Inheritance.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8c93b2cac9317b2010cb$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8c93b2cac9317b2010cb.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8c93b2cac9317b2010cb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ApacheSpark/DataFrameRead.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ApacheSpark/DataFrameRead.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ApacheSpark/DataFramesTransform.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ApacheSpark/DataFramesTransform.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ApacheSpark/SparkSQLDataset.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ApacheSpark/SparkSQLDataset.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/CubeCalculator$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/CubeCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart1basic/CallByNameAndCallByValue$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart1basic/CallByNameAndCallByValue$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart1basic/CallByNameAndCallByValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/lecturePart1basic/CallByNameAndCallByValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp_2.13/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp_2.13/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp_2.13/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/default/intro_scala_datacamp_2.13/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/default-intro_scala_datacamp_2.13-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,22 +115,32 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "last_opened_file_path": "C:/Users/indra/Documents/Github/Resumenes-Scala/Intro_Scala_DataCamp",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\src\main\resources\data" />
       <recent name="C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp" />
       <recent name="C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\src\test\scala" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\src\main\resources\input" />
+      <recent name="C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\src\main\resources" />
+      <recent name="C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\src\main\resources\data" />
+      <recent name="C:\Users\indra\Documents\Github\Resumenes-Scala\Intro_Scala_DataCamp\src\main\resources\data\input" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ListTest">
-    <configuration name="AbstractDataTypes" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lecturePart2OOP.AbstractDataTypes" />
+  <component name="RunManager" selected="Application.DataFramesTransform">
+    <configuration name="DataFrameBasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ApacheSpark.DataFrameBasics" />
       <module name="Intro_Scala_DataCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecturePart2OOP.*" />
+          <option name="PATTERN" value="ApacheSpark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lecturePart2OOP.Inheritance" />
+    <configuration name="DataFramesBasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ApacheSpark.DataFramesBasics" />
       <module name="Intro_Scala_DataCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecturePart2OOP.*" />
+          <option name="PATTERN" value="ApacheSpark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceAndTraits" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lecturePart2OOP.InheritanceAndTraits" />
+    <configuration name="DataFramesTransform" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ApacheSpark.DataFramesTransform" />
       <module name="Intro_Scala_DataCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecturePart2OOP.*" />
+          <option name="PATTERN" value="ApacheSpark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.ListTest" />
+    <configuration name="SparkSQLDataset" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ApacheSpark.SparkSQLDataset" />
       <module name="Intro_Scala_DataCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicios.*" />
+          <option name="PATTERN" value="ApacheSpark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.Principal" />
+    <configuration name="tmp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ApacheSpark.tmp" />
       <module name="Intro_Scala_DataCamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicios.*" />
+          <option name="PATTERN" value="ApacheSpark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.Inheritance" />
-        <item itemvalue="Application.AbstractDataTypes" />
-        <item itemvalue="Application.InheritanceAndTraits" />
-        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.DataFramesTransform" />
+        <item itemvalue="Application.tmp" />
+        <item itemvalue="Application.DataFrameBasics" />
+        <item itemvalue="Application.SparkSQLDataset" />
+        <item itemvalue="Application.DataFramesBasics" />
       </list>
     </recent_temporary>
   </component>
